@@ -35,7 +35,7 @@ O que você recebe PRONTO para rodar:
 
 Chega de boilerplate! Comece seu próximo projeto agora e economize horas de trabalho.
 
-🔥 Se você quiser criar um projeto Spring Boot completo, basta acessar o Spring Boot Generator através do link => https://springbootgenerator.com/
+🔥 Se você quiser criar um projeto Spring Boot completo, basta acessar o Spring Boot Generator através do link: https://springbootgenerator.com/
 
 ✨ 100% gratuito, sem login ou validação de e-mail.
 
